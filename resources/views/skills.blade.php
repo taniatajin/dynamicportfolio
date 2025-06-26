@@ -17,10 +17,10 @@
             I completed a professional <strong>Web Design Course</strong> from <strong>CodersTrust Bangladesh</strong>. The training focused on:
         </p>
         <ul class="course-list">
-            <li>✔️ Responsive Web Design</li>
-            <li>✔️ Bootstrap </li>
+            <li> Responsive Web Design</li>
+            <li> Bootstrap </li>
     
-            <li>✔️ Real-world project building</li>
+            <li> Real-world project building</li>
         </ul>
     </div>
 </div>
