@@ -193,7 +193,7 @@ footer {
 .timeline-item {
     margin-bottom: 30px;
     position: relative;
-    padding-left: 20px;
+    padding-left: 21px;
 }
 
 .timeline-item::before {
